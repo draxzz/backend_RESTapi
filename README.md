@@ -16,3 +16,4 @@ Features as admins
 2. List all jobs
 3. Delete job
 
+For .env, create your own folder and create your own MONGO_URL, PORT, AUTH_KEY and SECRET_KEY
