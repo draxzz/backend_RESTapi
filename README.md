@@ -17,3 +17,6 @@ Features as admins
 3. Delete job
 
 For .env, create your own folder and create your own MONGO_URL, PORT, AUTH_KEY and SECRET_KEY
+
+To run the project, use npm start, to view swagger, go to localhost:{PORT}/api-docs
+
